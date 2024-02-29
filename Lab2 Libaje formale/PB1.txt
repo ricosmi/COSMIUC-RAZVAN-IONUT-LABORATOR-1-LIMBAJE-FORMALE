@@ -1,0 +1,40 @@
+class Program
+{
+    static void GeneratePalindromes(string current, int position, int targetLength)
+    {
+        if (current.Length == targetLength)
+        {
+            Console.WriteLine(current);
+            return;
+        }
+
+        for (char c = '0'; c <= '2'; c++)
+        {
+            string newPalindrome = current;
+            if (targetLength == 1)
+            {
+                Console.WriteLine(c);
+            }
+            else if (position == 0) 
+            {
+                newPalindrome = c + newPalindrome + c;
+                if (newPalindrome.Length <= targetLength)
+                {
+                    GeneratePalindromes(newPalindrome, position + 1, targetLength);
+                }
+            }
+            else if (current.Length + 2 <= targetLength) 
+            {
+                newPalindrome = c + newPalindrome + c;
+                GeneratePalindromes(newPalindrome, position + 1, targetLength);
+            }
+        }
+    }
+    static void Main()
+    {
+        for (int length = 1; length <= 5; length++)
+        {
+            GeneratePalindromes("", 0, length);
+        }
+    }
+}

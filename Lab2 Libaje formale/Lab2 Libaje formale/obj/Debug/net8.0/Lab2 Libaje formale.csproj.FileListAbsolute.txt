@@ -1,0 +1,14 @@
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\bin\Debug\net8.0\Lab2 Libaje formale.exe
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\bin\Debug\net8.0\Lab2 Libaje formale.deps.json
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\bin\Debug\net8.0\Lab2 Libaje formale.runtimeconfig.json
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\bin\Debug\net8.0\Lab2 Libaje formale.dll
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\bin\Debug\net8.0\Lab2 Libaje formale.pdb
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.AssemblyInfoInputs.cache
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.AssemblyInfo.cs
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.dll
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\refint\Lab2 Libaje formale.dll
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.pdb
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\Lab2 Libaje formale.genruntimeconfig.cache
+C:\Users\ionut\Desktop\Lab2 Libaje formale\Lab2 Libaje formale\obj\Debug\net8.0\ref\Lab2 Libaje formale.dll

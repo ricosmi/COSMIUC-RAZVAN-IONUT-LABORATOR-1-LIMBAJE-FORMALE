@@ -1,0 +1,73 @@
+class Program
+{
+    
+    static void GenerateStringsGramatica1(int maxLength)
+    {
+        GenerateA("", 'S', maxLength);
+    }
+
+    static void GenerateA(string current, char rule, int maxLength)
+    {
+        if (current.Length > maxLength) return;
+        if (rule == 'S')
+        {
+            GenerateA(current, 'A', maxLength);
+            GenerateA(current, 'B', maxLength);
+        }
+        else if (rule == 'A')
+        {
+            if (current.Length + 1 <= maxLength) GenerateA(current + "a", 'A', maxLength);
+            GenerateA(current + "a", 'B', maxLength); 
+        }
+        else if (rule == 'B')
+        {
+            if (current.Length + 1 <= maxLength)
+            {
+                Console.WriteLine(current + "b"); 
+                GenerateA(current + "b", 'B', maxLength); 
+            }
+        }
+    }
+
+    static void GenerateStringsGramatica2(int maxLength)
+    {
+        GenerateX("", 'S', maxLength);
+    }
+
+    static void GenerateX(string current, char rule, int maxLength)
+    {
+        if (current.Length >= maxLength) return;
+        if (rule == 'S' || rule == 'X')
+        {
+            GenerateX(current + "0", 'Y', maxLength);
+            GenerateX(current + "1", 'Z', maxLength);
+        }
+        else if (rule == 'Y')
+        {
+            if (current.Length + 1 <= maxLength)
+            {
+                Console.WriteLine(current + "2");
+                GenerateX(current + "2", 'X', maxLength); 
+            }
+        }
+        else if (rule == 'Z')
+        {
+            if (current.Length + 1 <= maxLength)
+            {
+                Console.WriteLine(current + "3");
+                Console.WriteLine(current + "4");
+                GenerateX(current + "3", 'X', maxLength); 
+                GenerateX(current + "4", 'X', maxLength); 
+            }
+        }
+    }
+
+    static void Main()
+    {
+        Console.WriteLine("Gramatica 1:");
+        GenerateStringsGramatica1(3); 
+
+        Console.WriteLine("\nGramatica 2:");
+        GenerateStringsGramatica2(3); 
+    }
+}

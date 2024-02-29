@@ -1,0 +1,45 @@
+class Program
+{
+    static List<string> GenerateStrings(int iteration)
+    {
+        List<string> result = new List<string>();
+
+        if (iteration == 1)
+        {
+            result.Add("a");
+            result.Add("b");
+        }
+        else
+        {
+           
+            var prevIterationStrings = GenerateStrings(iteration - 1);
+            foreach (var str in prevIterationStrings)
+            {
+               
+                result.Add("a" + str + "a");
+                result.Add("b" + str + "b");
+            }
+
+            if (iteration == 3)
+            {
+                result.Add("aa");
+                result.Add("bb");
+            }
+        }
+
+        return result;
+    }
+    static void Main()
+    {
+        var iterations = 3;
+        for (int i = 1; i <= iterations; i++)
+        {
+            Console.WriteLine($"Iteratia {i}:");
+            foreach (var str in GenerateStrings(i))
+            {
+                Console.WriteLine(str);
+            }
+            Console.WriteLine();
+        }
+    }
+}
