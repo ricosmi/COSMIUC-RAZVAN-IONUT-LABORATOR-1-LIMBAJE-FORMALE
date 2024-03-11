@@ -1,0 +1,14 @@
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\bin\Debug\net8.0\Lab 4 Limbaje Formale.exe
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\bin\Debug\net8.0\Lab 4 Limbaje Formale.deps.json
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\bin\Debug\net8.0\Lab 4 Limbaje Formale.runtimeconfig.json
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\bin\Debug\net8.0\Lab 4 Limbaje Formale.dll
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\bin\Debug\net8.0\Lab 4 Limbaje Formale.pdb
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.AssemblyInfoInputs.cache
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.AssemblyInfo.cs
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.csproj.CoreCompileInputs.cache
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.dll
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\refint\Lab 4 Limbaje Formale.dll
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.pdb
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\Lab 4 Limbaje Formale.genruntimeconfig.cache
+C:\Users\ionut\Desktop\Lab 4 Limbaje Formale\Lab 4 Limbaje Formale\obj\Debug\net8.0\ref\Lab 4 Limbaje Formale.dll
