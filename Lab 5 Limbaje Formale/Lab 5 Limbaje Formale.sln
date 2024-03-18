@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 5 Limbaje Formale", "Lab 5 Limbaje Formale\Lab 5 Limbaje Formale.csproj", "{341C9595-4804-43C9-895C-3F35010EB231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341C9595-4804-43C9-895C-3F35010EB231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341C9595-4804-43C9-895C-3F35010EB231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341C9595-4804-43C9-895C-3F35010EB231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341C9595-4804-43C9-895C-3F35010EB231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E10AB60-B36B-4F6C-9EAF-8B8F072B645B}
+	EndGlobalSection
+EndGlobal
